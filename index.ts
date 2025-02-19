@@ -11,4 +11,3 @@ console.log(myContract.ExpiringTip.params);
 
 compiler.dispose();
 
-
